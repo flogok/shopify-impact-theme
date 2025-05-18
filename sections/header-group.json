@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "BIENVENIDOS",
+            "text": "🚚 Envío GRATIS en 24/48h en toda España | ¡Compra ya!",
             "url": ""
           }
         },
         "message_Lat4aC": {
           "type": "message",
           "settings": {
-            "text": "A TODOS",
+            "text": "🔥 OFERTA DE LANZAMIENTO: 10% DE DESCUENTO con el código KAI10 | Solo hasta 11/06",
             "url": ""
           }
         }
