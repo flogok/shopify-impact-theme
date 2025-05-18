@@ -25,6 +25,7 @@
     },
     "privacy-banner": {
       "type": "privacy-banner",
+      "disabled": true,
       "settings": {
         "privacy_bar_title": "Política de cookies",
         "privacy_bar_content": "<p>Usamos cookies para mejorar tu experiencia en Kaigok. Al navegar, aceptas su uso según nuestra política.<br/></p>"
