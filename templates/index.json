@@ -161,8 +161,8 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "OFERTAS DIARIAS",
-        "text_size": "large",
+        "text": "🚀 OFERTA: SSD 1TB ¡Solo €59! | 📦 Envío gratis en pedidos +€50 | 📞 Soporte 24/7",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
