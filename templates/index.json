@@ -78,7 +78,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Componentes",
+            "link_text": "Componentes PC",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -90,7 +90,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Periféricos",
+            "link_text": "Gaming",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -114,7 +114,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Portátiles",
+            "link_text": "Smartphones",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -126,7 +126,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Tablets",
+            "link_text": "Portátiles",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -161,7 +161,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "🔥 \"¡OFERTA RELÁMPAGO! Envíos 24h GRATIS en pedidos +€50. Solo hoy 10% EXTRA con código TECH10\"",
+        "text": "🚀 Bienvenido a Kaigok: la nueva forma de comprar tecnología, sin intermediarios, sin límites. 🚀",
         "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
