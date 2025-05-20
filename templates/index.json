@@ -77,8 +77,9 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/samsung-z-fold-6-12256gb-5g-plata-sombra-ue.jpg",
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "MOVILES",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
