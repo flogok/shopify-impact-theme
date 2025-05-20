@@ -77,9 +77,8 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/samsung-z-fold-6-12256gb-5g-plata-sombra-ue.jpg",
             "stretch_image": true,
-            "link_text": "MOVILES",
+            "link_text": "Componentes",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -91,7 +90,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "Periféricos",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -103,7 +102,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "Smart Home",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -115,7 +114,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "Portátiles",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -127,7 +126,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "Tablets",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -162,7 +161,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "OFERTAS DIARIAS",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
