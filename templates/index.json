@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify://shop_images/Diseno_sin_titulo_1.png",
             "stretch_image": true,
-            "link_text": "Gaming",
+            "link_text": "Componentes PC",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -91,7 +91,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Smartphones",
+            "link_text": "Gaming",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -103,7 +103,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Portátiles",
+            "link_text": "Smartphones",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -127,7 +127,7 @@
           "type": "item",
           "settings": {
             "stretch_image": true,
-            "link_text": "Gaming",
+            "link_text": "Oficina",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
