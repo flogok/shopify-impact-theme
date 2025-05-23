@@ -116,11 +116,12 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_5.png",
             "stretch_image": true,
             "link_text": "Smart Home",
             "link_url": "",
             "background": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
