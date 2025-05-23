@@ -90,6 +90,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_3.png",
             "stretch_image": true,
             "link_text": "Gaming",
             "link_url": "",
