@@ -275,6 +275,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Texto.png",
+        "mobile_image": "shopify://shop_images/Texto_1300_x_1500_px.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
