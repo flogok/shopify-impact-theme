@@ -103,11 +103,12 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_4.png",
             "stretch_image": true,
             "link_text": "Smartphones",
             "link_url": "",
             "background": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
