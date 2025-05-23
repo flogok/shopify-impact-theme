@@ -247,20 +247,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Tecnología que llega antes"
+            "text": ""
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Precios Directos, Envío Exprés, Contenido Diario",
+            "text": "",
             "heading_tag": "h2"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Bienvenido a Kaigok: tu tienda tech con stock real en España, análisis de expertos y soporte humano. Compra como un profesional, paga como un insider.<br/><br/></h5>"
+            "content": "<h5><br/></h5>"
           }
         }
       },
@@ -274,6 +274,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Texto.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
