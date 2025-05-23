@@ -167,10 +167,10 @@
       "settings": {
         "full_width": true,
         "text": "⚡Tecnología que llega antes, cuesta menos y rinde más⚡",
-        "text_size": "small",
+        "text_size": "medium",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 10,
         "background": "",
         "background_gradient": "",
         "text_color": "",
