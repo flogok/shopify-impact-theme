@@ -146,7 +146,7 @@
           "settings": {
             "image": "shopify://shop_images/Diseno_sin_titulo_9.png",
             "stretch_image": true,
-            "link_text": "Oficina",
+            "link_text": "AI",
             "link_url": "",
             "background": "",
             "text_color": "#1a1a1a",
@@ -166,7 +166,7 @@
       "settings": {
         "full_width": false,
         "block_size": "medium",
-        "subheading": "AI",
+        "subheading": "",
         "title": "",
         "content": "",
         "link_url": "",
