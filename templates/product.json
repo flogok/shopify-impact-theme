@@ -86,6 +86,9 @@
         "separator",
         "description"
       ],
+      "custom_css": [
+        "@media (min-width: 1024px) {.product__media-wrapper {position: sticky; top: 100px; }}"
+      ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
