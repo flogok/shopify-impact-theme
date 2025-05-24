@@ -87,7 +87,7 @@
         "description"
       ],
       "custom_css": [
-        "@media screen and (min-width: 1024px) {.product .product__media-wrapper, .product .product__media, .product .media, .product .media-gallery, .product .product__images, .product .gallery, .product .product-gallery {position: sticky !important; top: 100px !important; align-self: flex-start !important; max-height: 90vh; overflow: auto; z-index: 2; background: white; }}"
+        "@media screen and (min-width: 1024px) {.product .product__media-wrapper, .product .product__media, .product .media, .product .media-gallery, .product .product__images, .product .gallery, .product .product-gallery {position: sticky !important; top: 100px !important; align-self: flex-start !important; max-height: 90vh; overflow: auto; z-index: 2; background: #f0f0f0 !important; padding: 10px; border-radius: 12px; }}"
       ],
       "settings": {
         "full_width": true,
