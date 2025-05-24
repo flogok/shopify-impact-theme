@@ -90,11 +90,11 @@
         "@media screen and (min-width: 1024px) {.product__media-wrapper {position: sticky; top: 100px; align-self: start; z-index: 1; }}"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
+        "mobile_media_size": "contained",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
