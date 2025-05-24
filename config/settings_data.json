@@ -147,5 +147,10 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "@media (min-width: 1024px) {.product__media-wrapper {position: sticky; top: 100px; }}"
+    ]
   }
 }
