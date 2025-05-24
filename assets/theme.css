@@ -9878,3 +9878,10 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+@media screen and (min-width: 1024px) {
+  .product__media-wrapper {
+    position: sticky;
+    top: 100px;
+  }
+}
+
