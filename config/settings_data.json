@@ -42,7 +42,7 @@
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "color_swatch_style": "round",
-    "product_color_display": "swatch",
+    "product_color_display": "variant",
     "product_info_alignment": "start",
     "cart_type": "popover",
     "cart_icon": "shopping_basket",
