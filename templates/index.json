@@ -302,9 +302,10 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Diseno_sin_titulo_14.png",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://products/samsung-galaxy-z-fold6",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -323,9 +324,10 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Diseno_sin_titulo_10_de1d562b-a835-4d30-8b4e-375430b01a5f.png",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://products/intel-core-i9-14900k",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -344,7 +346,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Diseno_sin_titulo_13.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -365,7 +368,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/new.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -390,6 +394,7 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -401,6 +406,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -429,9 +435,9 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "content": "Kaigok revoluciona el ecommerce tech en España con precios agresivos y contenido experto.",
             "show_rating": false,
-            "rating": 4
+            "rating": 1
           }
         },
         "16644243327ba53d2a-1": {
@@ -439,7 +445,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "content": "Tecnología de élite y servicio premium: así se posiciona Kaigok frente a los gigantes del sector.",
             "show_rating": false,
             "rating": 4
           }
