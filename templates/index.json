@@ -197,10 +197,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "products": [
-          "samsung-galaxy-z-fold-6-5g-12gb-ram-512gb-pantalla-7-6-amoled-120hz-plegable-ultra-delgado-android-15-garantia-2-anos"
-        ],
+        "collection": "top-productos",
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -211,7 +209,7 @@
         "title": "TOP PRODUCTOS",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "VER TODOS",
         "background": "",
         "background_gradient": "",
         "text_color": "",
