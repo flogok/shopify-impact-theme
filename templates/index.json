@@ -15,8 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new_2.png",
-            "mobile_image": "shopify://shop_images/new_1200_x_1600_px_3.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +35,6 @@
         "image_MJc9tP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new_1.png",
-            "mobile_image": "shopify://shop_images/new_1200_x_1600_px_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -79,7 +75,6 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_2.png",
             "stretch_image": true,
             "link_text": "Componentes PC",
             "link_url": "",
@@ -92,7 +87,6 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_3.png",
             "stretch_image": true,
             "link_text": "Gaming",
             "link_url": "",
@@ -105,7 +99,6 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_4.png",
             "stretch_image": true,
             "link_text": "Smartphones",
             "link_url": "",
@@ -118,7 +111,6 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_5.png",
             "stretch_image": true,
             "link_text": "Smart Home",
             "link_url": "",
@@ -131,7 +123,6 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_6.png",
             "stretch_image": true,
             "link_text": "Oficina",
             "link_url": "",
@@ -144,7 +135,6 @@
         "item_yJtfAb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_9.png",
             "stretch_image": true,
             "link_text": "IA",
             "link_url": "",
@@ -163,6 +153,7 @@
         "1664424046b00c932c-1",
         "item_yJtfAb"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -196,6 +187,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "top-productos",
         "products": [],
@@ -238,6 +230,7 @@
       "block_order": [
         "1664424181b38582d5-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -282,13 +275,12 @@
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Texto.png",
-        "mobile_image": "shopify://shop_images/Texto_1300_x_1500_px.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -302,7 +294,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_14.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "shopify://products/samsung-galaxy-z-fold6",
@@ -324,7 +315,6 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_10_de1d562b-a835-4d30-8b4e-375430b01a5f.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "shopify://products/intel-core-i9-14900k",
@@ -346,7 +336,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_13.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -368,7 +357,6 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -455,6 +443,7 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -512,6 +501,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
@@ -819,6 +809,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
