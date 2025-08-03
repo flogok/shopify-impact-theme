@@ -842,8 +842,8 @@
           "type": "collection",
           "settings": {
             "collection": "kaigok-starter",
-            "subheading": "",
-            "title": "",
+            "subheading": "DFDF",
+            "title": "ASDASDAD",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-start text-start",
@@ -886,7 +886,6 @@
         "collection_GzxVUP",
         "collection_CjmdHN"
       ],
-      "custom_css": [],
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -903,6 +902,34 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "featured_collection_xLfAYC": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "kaigok-starter",
+        "products": [
+          "kaigok-starter"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     }
   },
@@ -921,6 +948,7 @@
     "featured-product",
     "feature-chart",
     "faq",
-    "collection_list_4HjA7r"
+    "collection_list_4HjA7r",
+    "featured_collection_xLfAYC"
   ]
 }
