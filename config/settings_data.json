@@ -40,7 +40,7 @@
     "heading_letter_spacing": -2,
     "text_font": "din_next_n4",
     "show_page_transition": true,
-    "heading_apparition": "split_fade",
+    "heading_apparition": "none",
     "color_swatch_style": "round",
     "product_color_display": "count",
     "product_info_alignment": "start",
