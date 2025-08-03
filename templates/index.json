@@ -841,12 +841,12 @@
         "collection_DDYih4": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "kaigok-starter",
             "subheading": "",
             "title": "",
             "url": "",
             "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-start text-start",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -886,6 +886,7 @@
         "collection_GzxVUP",
         "collection_CjmdHN"
       ],
+      "custom_css": [],
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -894,8 +895,8 @@
         "show_progress_bar": false,
         "subheading": "",
         "title": "Collection list",
-        "content": "",
-        "link_url": "",
+        "content": "<p>hola como</p>",
+        "link_url": "shopify://blogs/noticias",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
