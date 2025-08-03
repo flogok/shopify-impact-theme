@@ -9879,3 +9879,112 @@ split-lines {
   overflow: hidden;
 }
 
+
+
+/* --- Estilo para el contenedor de la colección --- */
+.featured-collection .title {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #333; /* Ajusta el color si usas un tema oscuro */
+}
+
+/* --- Estilo para la tarjeta de producto --- */
+.card-wrapper {
+    background-color: #ffffff; /* Fondo de la tarjeta */
+    border: 1px solid transparent;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+/* --- Efecto de borde y sombra de color púrpura --- */
+.card-wrapper::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: conic-gradient(
+        transparent,
+        rgba(192, 72, 255, 0.3), /* Color del resplandor */
+        transparent 30%
+    );
+    animation: rotate 6s linear infinite;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.card-wrapper:hover::before {
+    opacity: 1;
+}
+
+@keyframes rotate {
+    100% {
+        transform: rotate(1turn);
+    }
+}
+
+.card-wrapper .card {
+    background: #fff; /* Asegura que el contenido esté sobre el gradiente animado */
+    position: relative;
+    z-index: 2;
+    border-radius: 14px; /* Un poco menos que el wrapper para que se vea el borde */
+}
+
+/* --- Contenido de la tarjeta --- */
+.card__content {
+    padding: 20px;
+}
+
+.card__heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.product-card-description {
+    font-size: 0.9rem;
+    color: #666;
+    min-height: 50px; /* Ajusta para alinear las tarjetas */
+}
+
+/* --- Lista de especificaciones --- */
+.product-specs {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.product-specs li {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+/* --- Precio y enlace --- */
+.price {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.price .price__container {
+    margin-bottom: 10px;
+}
+
+.product-card-link {
+    color: #8A2BE2; /* Color morado */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.product-card-link:hover {
+    color: #5A1A94;
+}
