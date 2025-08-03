@@ -882,7 +882,7 @@
         "item_WrMmRT"
       ],
       "custom_css": [
-        ".multicolumn-list__item {border: 1px solid #000000; padding: 25px; border-radius: 10px;}"
+        ".multicolumn-card {border: 1px solid #000000; padding: 25px; border-radius: 10px;}"
       ],
       "name": "Multi-column",
       "settings": {
