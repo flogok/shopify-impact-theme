@@ -881,7 +881,9 @@
         "item_pATX98",
         "item_WrMmRT"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".multicolumn-list__item {border: 1px solid #000000; padding: 25px; border-radius: 10px;}"
+      ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
