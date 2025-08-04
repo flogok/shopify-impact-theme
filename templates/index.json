@@ -835,67 +835,17 @@
         "accordion_text_color": ""
       }
     },
-    "multi_column_W8Ryhm": {
-      "type": "multi-column",
-      "blocks": {
-        "item_tpJgxP": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/kaigok-starter.jpg",
-            "column_size": "3",
-            "title": "KAIGOK STARTER",
-            "heading_tag": "h4",
-            "content": "<p>Perfecto para comenzar tu aventura gaming con un rendimiento sólido y fiable.<br/><br/></p>",
-            "link_url": "shopify://products/kaigok-starter",
-            "link_text": "VER MODELO",
-            "link_style": "button"
-          }
-        },
-        "item_pATX98": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WrMmRT": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_tpJgxP",
-        "item_pATX98",
-        "item_WrMmRT"
-      ],
-      "custom_css": [
-        ".multicolumn-list__item {border: 1px solid #000000; padding: 25px; border-radius: 10px;}"
-      ],
-      "name": "Multi-column",
+    "custom_html_NwXaqY": {
+      "type": "custom-html",
+      "name": "Custom HTML",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Encuentra tu PC",
-        "content": "",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<div style=\"max-width: 1200px; margin: 0 auto; padding: 40px 20px; font-family: Arial, sans-serif;\">\n  <h2 style=\"text-align: center; color: #4a1a5c; font-size: 2.5rem; margin-bottom: 50px; font-weight: bold;\">\n    Encuentra tu Arsenal de Batalla\n  </h2>\n  \n  <div style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;\">\n    \n    <!-- KAIGOK STARTER -->\n    <div style=\"background: white; border-radius: 15px; padding: 30px; box-shadow: 0 5px 20px rgba(0,0,0,0.1); text-align: center;\">\n      <div style=\"background: #f5f5f5; border-radius: 10px; padding: 20px; margin-bottom: 20px;\">\n        <img src=\"https://via.placeholder.com/200x150/cccccc/666666?text=PC+Gaming\" alt=\"KAIGOK STARTER\" style=\"max-width: 100%; height: auto;\">\n      </div>\n      <h3 style=\"color: #333; font-size: 1.3rem; margin-bottom: 10px; font-weight: bold;\">KAIGOK STARTER</h3>\n      <p style=\"color: #666; font-size: 0.9rem; margin-bottom: 20px; line-height: 1.4;\">\n        Perfecto para comenzar tu aventura gaming con un rendimiento sólido y fiable.\n      </p>\n      \n      <div style=\"text-align: left; margin-bottom: 25px;\">\n        <div style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">🖥️ AMD Ryzen 5</span>\n        </div>\n        <div style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">🎮 GTX 1660 Super</span>\n        </div>\n        <div style=\"display: flex; align-items: center;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">💾 16GB DDR4</span>\n        </div>\n      </div>\n      \n      <div style=\"margin-bottom: 20px;\">\n        <span style=\"color: #333; font-size: 1.5rem; font-weight: bold;\">desde 899€</span>\n      </div>\n      \n      <button style=\"background: white; border: 2px solid #4a1a5c; color: #4a1a5c; padding: 12px 25px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s;\">\n        Ver Modelo →\n      </button>\n    </div>\n    \n    <!-- KAIGOK PRO -->\n    <div style=\"background: white; border-radius: 15px; padding: 30px; box-shadow: 0 5px 20px rgba(0,0,0,0.1); text-align: center;\">\n      <div style=\"background: #f5f5f5; border-radius: 10px; padding: 20px; margin-bottom: 20px;\">\n        <img src=\"https://via.placeholder.com/200x150/cccccc/666666?text=PC+Gaming+Pro\" alt=\"KAIGOK PRO\" style=\"max-width: 100%; height: auto;\">\n      </div>\n      <h3 style=\"color: #333; font-size: 1.3rem; margin-bottom: 10px; font-weight: bold;\">KAIGOK PRO</h3>\n      <p style=\"color: #666; font-size: 0.9rem; margin-bottom: 20px; line-height: 1.4;\">\n        El equilibrio perfecto entre rendimiento y precio para jugadores exigentes.\n      </p>\n      \n      <div style=\"text-align: left; margin-bottom: 25px;\">\n        <div style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">🖥️ AMD Ryzen 7</span>\n        </div>\n        <div style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">🎮 RTX 4060 Ti</span>\n        </div>\n        <div style=\"display: flex; align-items: center;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">💾 32GB DDR4</span>\n        </div>\n      </div>\n      \n      <div style=\"margin-bottom: 20px;\">\n        <span style=\"color: #333; font-size: 1.5rem; font-weight: bold;\">desde 1.299€</span>\n      </div>\n      \n      <button style=\"background: white; border: 2px solid #4a1a5c; color: #4a1a5c; padding: 12px 25px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s;\">\n        Ver Modelo →\n      </button>\n    </div>\n    \n    <!-- KAIGOK ULTIMATE -->\n    <div style=\"background: white; border-radius: 15px; padding: 30px; box-shadow: 0 5px 20px rgba(0,0,0,0.1); text-align: center;\">\n      <div style=\"background: #f5f5f5; border-radius: 10px; padding: 20px; margin-bottom: 20px;\">\n        <img src=\"https://via.placeholder.com/200x150/cccccc/666666?text=PC+Gaming+Ultimate\" alt=\"KAIGOK ULTIMATE\" style=\"max-width: 100%; height: auto;\">\n      </div>\n      <h3 style=\"color: #333; font-size: 1.3rem; margin-bottom: 10px; font-weight: bold;\">KAIGOK ULTIMATE</h3>\n      <p style=\"color: #666; font-size: 0.9rem; margin-bottom: 20px; line-height: 1.4;\">\n        Sin límites. Para los que no aceptan compromisos en su experiencia gaming.\n      </p>\n      \n      <div style=\"text-align: left; margin-bottom: 25px;\">\n        <div style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">🖥️ AMD Ryzen 9</span>\n        </div>\n        <div style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">🎮 RTX 4090 Super</span>\n        </div>\n        <div style=\"display: flex; align-items: center;\">\n          <span style=\"color: #666; font-size: 0.85rem;\">💾 32GB DDR5</span>\n        </div>\n      </div>\n      \n      <div style=\"margin-bottom: 20px;\">\n        <span style=\"color: #333; font-size: 1.5rem; font-weight: bold;\">desde 2.199€</span>\n      </div>\n      \n      <button style=\"background: white; border: 2px solid #4a1a5c; color: #4a1a5c; padding: 12px 25px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s;\">\n        Ver Modelo →\n      </button>\n    </div>\n    \n  </div>\n</div>\n\n<style>\nbutton:hover {\n  background: #4a1a5c !important;\n  color: white !important;\n}\n</style>",
         "background": "",
         "background_gradient": "",
-        "text_color": "#340856"
+        "text_color": ""
       }
     }
   },
@@ -914,6 +864,6 @@
     "featured-product",
     "feature-chart",
     "faq",
-    "multi_column_W8Ryhm"
+    "custom_html_NwXaqY"
   ]
 }
