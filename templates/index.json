@@ -15,7 +15,7 @@
         "image_GahbJF": {
           "type": "image",
           "settings": {
-            "content_max_width": 780,
+            "content_max_width": 440,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tell your story",
@@ -59,7 +59,7 @@
       ],
       "name": "Slideshow",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "image_size": "auto",
         "controls_type": "dots",
