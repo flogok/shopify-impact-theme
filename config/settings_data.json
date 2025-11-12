@@ -56,7 +56,24 @@
     "cart_icon": "shopping_basket",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "17985673643287205206": {
+        "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/app_setting/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
+        "disabled": false,
+        "settings": {}
+      },
+      "13790739142488346433": {
+        "type": "shopify://apps/lai-product-reviews/blocks/appBlockEmbed/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
+        "disabled": false,
+        "settings": {}
+      },
+      "6143736321357441667": {
+        "type": "shopify://apps/tidio-live-chat-chatbots/blocks/app-embed/1002274d-fb18-4939-98f6-5f05a8deeadc",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
